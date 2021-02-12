@@ -1,10 +1,15 @@
 # Functional Component Contact List
 
-### Let's create a contact list using functional components and mapping.
+
 
 ![](https://media.giphy.com/media/63I6FXZTXks2A/giphy.gif)
 
+## Overview
+Let's create a contact list using functional components and mapping.
 
+## Objectives
+
+## What You'll Be Building
 Here is what the finished application will look like:
 
 ![](https://media.giphy.com/media/YleV4Tht95MPtY01nW/giphy.gif)
