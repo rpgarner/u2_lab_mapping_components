@@ -66,11 +66,15 @@ Here is what the finished application will look like:
 ###  **Bonus!!!** 
 - If you want to go above and beyond create the layout shown in the GIF on this page that looks like a phone screen and only shows a few contacts at a time
 
-###  **Ultra Bonus!!!** 
-- Recreate the mockup shown below in React and have the contacts render on the screen!
-
-
 #### Have Fun!!!
 
 
-![](https://raw.git.generalassemb.ly/ga-wdi-exercises/cell_phone_html_css/master/mock.png)
+## Recap
+In this lab, we practiced mapping over a large set of data after importing it and rendering unique components for each contact in the list. When mapping over data and rendering it, it's important to `console.log` the data first to see what sort of props we'll need to create in our components.
+
+## Resources
+- [React Mapping Components Lesson](https://github.com/SEI-R-1-25/u2_lesson_react_mapping_components)
+- [Components and Props (React Docs)](https://reactjs.org/docs/components-and-props.html#function-and-class-components)
+- [Embedding .map() in JSX (React Docs)](https://reactjs.org/docs/lists-and-keys.html#embedding-map-in-jsx)
+
+
