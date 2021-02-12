@@ -9,16 +9,17 @@ Let's create a contact list using functional components and mapping.
 
 ## Objectives
 
+
 ## What You'll Be Building
 Here is what the finished application will look like:
 
 ![](https://media.giphy.com/media/YleV4Tht95MPtY01nW/giphy.gif)
 
-
+## Getting Started
 `Fork` and `clone` this repository
 `npm i` to install dependencies
 
-## Steps
+## Instructions
 
 ### 1. You have a list of contacts hard coded in `/src/data/contact.json`
 - Find this list of contacts in your React App's file tree
