@@ -1,11 +1,9 @@
-# Functional Component Contact List
-
-
+# A React Contact List
 
 ![](https://media.giphy.com/media/63I6FXZTXks2A/giphy.gif)
 
 ## Overview
-Let's create a contact list using functional components and mapping. We'll be practicing with a large set of data to get comfortable with mapping data, passing it through props, and rendering it within a functional component.
+Let's create a contact list using `Class` components and mapping. We'll be practicing with a large set of data to get comfortable with mapping data, passing it through props, and rendering it within a nested component.
 
 ## Objectives
 - Import data into the React component file tree
