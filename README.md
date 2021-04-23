@@ -71,7 +71,7 @@ Here is what the finished application will look like:
 In this lab, we practiced mapping over a large set of data after importing it and rendering unique components for each contact in the list. When mapping over data and rendering it, it's important to `console.log` the data first to see what sort of props we'll need to create in our components.
 
 ## Resources
-- [React Mapping Components Lesson](https://github.com/SEI-R-1-25/u2_lesson_react_mapping_components)
+- [React Mapping Components Lesson](https://github.com/SEI-R-4-26/u2_lesson_react_mapping_components)
 - [Components and Props (React Docs)](https://reactjs.org/docs/components-and-props.html#function-and-class-components)
 - [Embedding .map() in JSX (React Docs)](https://reactjs.org/docs/lists-and-keys.html#embedding-map-in-jsx)
 
