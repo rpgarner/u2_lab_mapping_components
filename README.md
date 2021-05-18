@@ -22,14 +22,14 @@ Here is what the finished application will look like:
 
 ## Instructions
 
-### 1. You have a list of contacts hard coded in `/src/data/contact.json`
+### 1. You have a list of contacts hard coded in `/src/data/contacts.json`
 - Find this list of contacts in your React App's file tree
-- Notice what data types are within `contact.json`
+- Notice what data types are within `contacts.json`
 
 ### 2. You need to bring this data into your `App.js`
 - Import the contacts data into `App.js`
 - ```js
-  import contacts from './data/contact.json'
+  import contacts from './data/contacts.json'
   ```
 - `console.log` contacts in `App.js` above its return to make sure that you've imported the data correctly
 
