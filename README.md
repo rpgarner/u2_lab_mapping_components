@@ -65,7 +65,5 @@ Here is what the finished application will look like:
 In this lab, we practiced mapping over a large set of data. We've taken the data provided to display an awesome contact list that others will certainly want to use!
 
 ## Resources
-
-- [React Mapping Components Lesson](https://github.com/SEI-R-4-26/u2_lesson_react_mapping_components)
 - [Components and Props (React Docs)](https://reactjs.org/docs/components-and-props.html#function-and-class-components)
 - [Embedding .map() in JSX (React Docs)](https://reactjs.org/docs/lists-and-keys.html#embedding-map-in-jsx)
